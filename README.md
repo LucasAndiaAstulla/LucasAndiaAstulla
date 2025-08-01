@@ -1,7 +1,6 @@
 ## Seja bem-vindo!!! Eu sou o Lucas Andia 😊
 
-- 🌱 Estudando: Kotlin e Android Studio
-
+- 🌱 Estudando: Kotlin, Android Studio & JavaScript
 <div>
   <a href="https://github.com/LucasAndiaAstulla">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAndiaAstulla&show_icons=true&theme=merko&hide=prs,contribs&count_private=true" />
