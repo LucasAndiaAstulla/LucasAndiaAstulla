@@ -1,12 +1,22 @@
 ## Seja bem-vindo!!! Eu sou o Lucas Andia 😊
 
-- 🌱 Estudando: Kotlin, Android Studio & JavaScript
-<div>
-  <a href="https://github.com/LucasAndiaAstulla">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAndiaAstulla&show_icons=true&theme=merko&hide=prs,contribs&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAndiaAstulla&show_icons=true&theme=merko&hide=prs,contribs&count_private=true" />
-  </a>
-</div>
+### Desenvolvedor Android em formação 📱
+
+> **Transformando problemas do cotidiano em soluções através do desenvolvimento mobile.**
+
+## 🚀 Sobre mim
+
+🎓 Estudante de Ciência da Computação (8º semestre)
+
+📱 Focado em Desenvolvimento Android
+
+💙 Apaixonado por Kotlin
+
+💡 Gosto de criar aplicativos para resolver problemas reais
+
+🎯 Buscando oportunidade como Desenvolvedor Android Júnior
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
@@ -19,7 +29,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+
+## 🌱 Atualmente
+
+* 📱 Desenvolvendo um aplicativo Android para consultores comerciais com foco em gamificação
+* 📚 Estudando consumo de APIs REST e Retrofit
+* 🚀 Evoluindo meus conhecimentos em arquitetura Android
+
 
 <div> 
   
